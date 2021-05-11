@@ -212,7 +212,7 @@ section .title::after{
 
 .home{
     display: flex;
-    background: url("images/bnr.jpg") no-repeat center;
+    background: url("images/Bnr.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
